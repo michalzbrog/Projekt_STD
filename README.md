@@ -1,1 +1,3 @@
-# Projekt_STD
+Michał Zbróg
+Magdalena Zubala
+Marcin Michaluk
